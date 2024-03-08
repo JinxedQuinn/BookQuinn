@@ -1,11 +1,11 @@
 import Link from 'next/link';
 
-const Header = () => {
+const Presentation = () => {
     return (
         <header className='text-center bg-blue-500 p-2 text-2xl'>
-            <a href="#Top">Book de Chloé Nicolini 🐺</a>
+            Book de Chloé Nicolini 🐺
         </header>
     );
 };
 
-export default Header;
+export default Presentation;
