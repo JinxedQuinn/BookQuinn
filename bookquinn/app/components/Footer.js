@@ -9,6 +9,9 @@ const Footer = () => {
                         <img className="w-5" src='/arrowUp.svg' alt='Arrow Up' />
                     </Link>
                 </li>
+                <li>
+                    <img src='/kofi.svg' alt='Ko-fi' className='w-5' />
+                </li>
             </ul>
         </footer>
     );
