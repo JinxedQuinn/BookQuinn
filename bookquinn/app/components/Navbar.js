@@ -24,12 +24,20 @@ const Navbar = () => {
                             </span>
                             {/* <img className="w-5 h-5 transition group-open:rotate-90" src="/arrow.svg" alt="arrow" /> */}
                         </summary>
-                        <article className="px-4 pb-4 border w-full">
+                        {/* <article className="px-4 pb-4 border w-full">
                             <div className='m-2 italic text-center'>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             </div>
                             
-                        </article>
+                        </article> */}
+                        <ul>
+                            <li>
+                                Tournois
+                            </li>
+                            <li>
+                                Truc
+                            </li>
+                        </ul>
                     </details>
                 </li>
             </ul>
