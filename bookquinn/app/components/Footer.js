@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const Footer = () => {
     return (
-        <footer className='bg-red-400 bottom-0 fixed p-2 w-full flex'>
+        <footer className='bg-red-400 bottom-0 sticky p-2 w-full flex'>
             <ul>
                 <li>
                     <Link href='#Top'>
