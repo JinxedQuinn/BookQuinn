@@ -82,7 +82,7 @@ const CV = () => {
                     <div className="col-span-4 sm:col-span-9">
                         <div className="bg-white shadow rounded-lg p-6">
                             <h2 className="text-xl font-bold mb-4">About Me</h2>
-                            <p className="text-gray-700 overflow-y-auto max-h-[205px]">Je m'appelle Chloé Nicolini, je suis en formation de Développeuse Web Full Stack à l'école Ada Tech School. Je suis passionnée par le développement web et je suis à la recherche d'un stage de fin de formation pour valider mes compétences et espérer passer le diplôme à la fin de l'année. J'ai entamé cette reconversion professionelle car j'ai décidé de monter un projet niche relatif à une de mes passions. Je ne crois pas qu'il y ait de bonnes ou de mauvaises façons. En fait, moi j’ai toujours eu la passion, euh… depuis que je suis enfant, du football et du multimédia, c’est-à-dire finalement quasiment de la même chose. Et ce qui est assez amusant, c’est que j’ai eu plus tard l’occasion, de… de vivre de cette passion, euh, de l’habiter, de faire ce qu’on appelle profession-passion. J’ai… Moi, si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, euh, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seule chez moi. Et c’est assez, c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas, euh, l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer. Alors ce n’est pas mon cas, euh comme je le disais là, puisque moi au contraire, j’ai pu; et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie… Euh, je ne suis qu’amour ! Je chante l’amour ! Mais ce qui est amusant quan… d’être la ensemble, et qu’on évoque ça aujourd’hui, c’est que je suis à ce tournant là euh, de la vie aujourd’hui, je réalise pleinement, par ce travail, euh… avec euh… mon école, euh, je réalise cette passion. Quand je dis passion, c’est vraiment, c’est le coeur, c’est les tripes, c’est le vécu d’une femme, une femme qui peut s’exprimer.
+                            <p className="text-gray-700 overflow-y-auto max-h-[200px]">Je m'appelle Chloé Nicolini, je suis en formation de Développeuse Web Full Stack à l'école Ada Tech School. Je suis passionnée par le développement web et je suis à la recherche d'un stage de fin de formation pour valider mes compétences et espérer passer le diplôme à la fin de l'année. J'ai entamé cette reconversion professionelle car j'ai décidé de monter un projet niche relatif à une de mes passions. <br></br>Je ne crois pas qu'il y ait de bonnes ou de mauvaises façons de se lancer dans un projet tel que le mien. En fait, moi j’ai toujours eu la passion, euh… depuis que je suis enfant, du football et du multimédia, c’est-à-dire finalement quasiment de la même chose. Et ce qui est assez amusant, c’est que j’ai eu plus tard l’occasion, de… de vivre de cette passion, euh, de l’habiter, de faire ce qu’on appelle profession-passion. J’ai… Moi, si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, euh, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas, où j’étais seule chez moi. Et c’est assez, c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas, euh, l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer. Alors ce n’est pas mon cas, euh comme je le disais là, puisque moi au contraire, j’ai pu; et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie… Euh, je ne suis qu’amour ! Je chante l’amour ! Mais ce qui est amusant quan… d’être la ensemble, et qu’on évoque ça aujourd’hui, c’est que je suis à ce tournant là euh, de la vie aujourd’hui, je réalise pleinement, par ce travail, euh… avec euh… mon école, euh, je réalise cette passion. Quand je dis passion, c’est vraiment, c’est le coeur, c’est les tripes, c’est le vécu d’une femme, une femme qui peut... euh... s’exprimer.
                             </p>
 
                             <hr className="my-6 border-t border-gray-300"></hr>
@@ -96,6 +96,7 @@ const CV = () => {
                                         <span className="text-gray-700">Oct. 2023</span>
                                     </p>
                                 </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
                                 <p className="mt-2">
                                     Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
                                 </p>
@@ -103,32 +104,124 @@ const CV = () => {
 
                             <div className="mb-6">
                                 <div className="flex justify-between flex-wrap gap-2 w-full">
-                                    <span className="text-gray-700 font-bold">Web Developer</span>
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
                                     <p>
-                                        <span className="text-gray-700 mr-2">at ABC Company</span>
-                                        <span className="text-gray-700">2017 - 2019</span>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
                                     </p>
                                 </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
                                 <p className="mt-2">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed finibus est vitae
-                                    tortor ullamcorper, ut vestibulum velit convallis. Aenean posuere risus non velit egestas
-                                    suscipit.
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
                                 </p>
                             </div>
+
                             <div className="mb-6">
                                 <div className="flex justify-between flex-wrap gap-2 w-full">
-                                    <span className="text-gray-700 font-bold">Web Developer</span>
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
                                     <p>
-                                        <span className="text-gray-700 mr-2">at ABC Company</span>
-                                        <span className="text-gray-700">2017 - 2019</span>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
                                     </p>
                                 </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
                                 <p className="mt-2">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed finibus est vitae
-                                    tortor ullamcorper, ut vestibulum velit convallis. Aenean posuere risus non velit egestas
-                                    suscipit.
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
                                 </p>
                             </div>
+
+                            <hr className="my-6 border-t border-gray-300"></hr>
+
+                            <h2 className="text-xl font-bold mt-6 mb-4">Projets Persos</h2>
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
+                                </p>
+                            </div>
+
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
+                                </p>
+                            </div>
+
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
+                                </p>
+                            </div>
+
+                            <hr className="my-6 border-t border-gray-300"></hr>
+
+                            <h2 className="text-xl font-bold mt-6 mb-4">Projets Persos</h2>
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
+                                </p>
+                            </div>
+
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
+                                </p>
+                            </div>
+
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
+                                </p>
+                            </div>
+
+                            <hr className="my-6 border-t border-gray-300"></hr>
+
                         </div>
                     </div>
                 </div>
