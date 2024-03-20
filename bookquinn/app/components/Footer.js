@@ -12,16 +12,13 @@ const Footer = () => {
             <a href='https://www.linkedin.com/in/nicolinichloe/' className="w-5">
                 <img src='/linkedin.svg' alt='LinkedIn' />
             </a>
-            <a href='https://www.linkedin.com/in/nicolinichloe/' className="w-5">
-                <img src='/CvIco.svg' alt='CV' />
-            </a>
-                <Link href='/cv'>
-                    <img className="w-5" src='/cv.svg' alt='CV' />
-                </Link>
-                <Link href='#Top'>
-                    <img className="w-5" src='/arrowUp.svg' alt='Arrow Up' />
-                </Link>
-            </footer>
+            <Link href='/cv' className="w-5">
+                <img src='/Cvitae.svg' alt='CV' />
+            </Link>
+            <Link href='#Top'>
+                <img className="w-5" src='/arrowUp.svg' alt='Arrow Up' />
+            </Link>
+        </footer>
     );
 };
 
