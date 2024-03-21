@@ -11,25 +11,29 @@ const Presentation = () => {
                 Junior en code, j'ai pour ambition de monter en compétences afin de développer un projet personnel que j'aimerais voir aboutir. Pour cela, j'ai décidé d'entamer une formation chez Ada Tech School pour devenir développeuse web.
             </p>
 
-            <p className='p-2 text-center'>
-                Je suis à la recherche d'une alternance de <strong>12 mois</strong>, sur un rythme de <strong>4 jours/semaine en entreprise.</strong>
-            </p>
-            
-            <div className='flex justify-between'>
+            <div className='grid grid-cols-3'>
+                <div className="max-w-sm rounded overflow-hidden shadow-lg m-3">
+                    <img className="w-full" src="/ada.png" alt="Logo Ada" />
+                    <div className="px-6 py-4">
+                        <div className="font-bold text-xl mb-2">Ada Tech School : Casser les codes</div>
+                        <p className="text-gray-700 text-base">
+                        J'ai entamé une reconversion professionnelle à Ada Tech School pour devenir développeuse web. J'ai choisi cette école pour sa pédagogie inclusive et bienveillante. C'est une formation Full Stack
+                        </p>
+                    </div>
+                </div>
 
-                <a href='https://adatechschool.fr/'>
-                    <button className='flex max-w-sm rounded-xl bg-gradient-to-tr from-pink-300 to-blue-300 p-0.5 shadow-lg'>
-                        <img src='/ada.png'></img>
-                    </button>
-                </a>
-
-                <button className='flex max-w-sm rounded-xl bg-gradient-to-tr from-pink-300 to-blue-300 p-0.5 shadow-lg'>
-                    From Oct. 2023
-                </button>
-
+                <div class="max-w-sm rounded overflow-hidden shadow-lg m-3">
+                    <img class="w-full" src="/AdaBegin.png" alt="Calendrier" />
+                    <div class="px-6 py-4">
+                        <div class="font-bold text-xl mb-2">Début de l'aventure ?</div>
+                        <p class="text-gray-700 text-base">
+                            23 Octobre 2023
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     );
-};
+}
 
 export default Presentation;
