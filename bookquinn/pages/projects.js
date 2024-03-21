@@ -1,6 +1,7 @@
 import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
 import Navbar from "@/app/components/Navbar";
+import GridProject from "@/app/components/GridProject";
 import '../app/globals.css';
 
 const cv = () => {
@@ -8,6 +9,7 @@ const cv = () => {
         <>
             <Header />
             <Navbar />
+            <GridProject />
             <Footer />
         </>
     );
