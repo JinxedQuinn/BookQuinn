@@ -1,10 +1,6 @@
-import Image from "next/image";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Presentation from "./components/Presentation";
-import Skills from "./components/Skills";
-import Contact from "./components/Contact";
-import Infos from "./components/Infos";
 import Footer from "./components/Footer";
 
 export default function Home() {
@@ -13,8 +9,6 @@ export default function Home() {
       <Header />
       <Navbar />
       <Presentation />
-      <Contact />
-      <Infos />
       <Footer />
     </>
   );
