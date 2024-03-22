@@ -10,7 +10,7 @@ const Footer = () => {
                 <img src='/kofi.svg' alt='Ko-Fi' />
             </a>
             <a href='https://www.linkedin.com/in/nicolinichloe/' className="w-5">
-                <img src='/linkedin.svg' alt='LinkedIn' />
+                <img src='./linkedin.svg' alt='LinkedIn' />
             </a>
             <a href='https://www.codewars.com/users/JinxedQuinn' className="w-5">
                 <img src='/codewars.svg' alt='CodeWars' />

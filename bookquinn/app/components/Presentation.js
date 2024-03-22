@@ -22,11 +22,11 @@ const Presentation = () => {
                     </div>
                 </div>
 
-                <div class="max-w-sm rounded overflow-hidden shadow-lg m-3">
-                    <img class="w-full" src="/AdaBegin.png" alt="Calendrier" />
-                    <div class="px-6 py-4">
-                        <div class="font-bold text-xl mb-2">Début de l&apos;aventure ?</div>
-                        <p class="text-gray-700 text-base">
+                <div className="max-w-sm rounded overflow-hidden shadow-lg m-3">
+                    <img className="w-full" src="/AdaBegin.png" alt="Calendrier" />
+                    <div className="px-6 py-4">
+                        <div className="font-bold text-xl mb-2">Début de l&apos;aventure ?</div>
+                        <p className="text-gray-700 text-base">
                             23 Octobre 2023
                         </p>
                     </div>
