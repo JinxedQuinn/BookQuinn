@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const GridProject = () => {
     return (
-        <section className='h-screen bg-gradient-to-r from-teal-600 to-pink-900'>
+        <section className='h-screen bg-gradient-to-r from-fuchsia-500 to-cyan-500'>
             <div className="container mx-auto">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 m-2">
                     <div className="bg-white shadow-lg rounded-lg overflow-hidden">

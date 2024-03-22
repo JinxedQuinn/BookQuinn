@@ -55,26 +55,23 @@ const CV = () => {
                                 <span className="text-gray-700 uppercase font-bold tracking-wider mb-2">Langues</span>
                                 <ul>
                                     <li className="mb-2">🇬🇧 Anglais - B2</li>
+                                    <li className="mb-2">🇯🇵 Japonais - A1</li>
                                     <li className="mb-2">🇳🇱 Néerlandais - A1</li>
-                                    <li className="mb-2">Node.js</li>
-                                    <li className="mb-2">HTML/CSS</li>
-                                    <li className="mb-2">Tailwind Css</li>
                                 </ul>
                             </div>
                             <hr className="my-6 border-t border-gray-300"></hr>
                             <div className="flex flex-col">
                                 <span className="text-gray-700 uppercase font-bold tracking-wider mb-2">Centres d'intêrets</span>
                                 <ul>
-                                    <li className="mb-2">Musique</li>
+                                    <li className="mb-2">Boxe</li>
                                     <li className="mb-2">Chant</li>
                                     <li className="mb-2">Football</li>
+                                    <li className="mb-2">Jeux de plateaux</li>
                                     <li className="mb-2">Jeux Vidéos</li>
-                                    <li className="mb-2">Boxe</li>
+                                    <li className="mb-2">Musique</li>
                                     <li className="mb-2">Séries / Films</li>
                                     <li className="mb-2">Tatouages</li>
-                                    <li className="mb-2">Node.js</li>
                                     <li className="mb-2">Voyages</li>
-                                    <li className="mb-2">Jeux de plateaux</li>
                                 </ul>
                             </div>
                         </div>
@@ -98,6 +95,51 @@ const CV = () => {
                                 </div>
                                 <p className='italic'>NextJS - TailwindCSS</p>
                                 <p className="mt-2">
+                                    Site web répertoriant différentes équipes, leur résultats en championnat, et les joueureuses qui les composent.
+                                </p>
+                            </div>
+
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
+                                </p>
+                            </div>
+
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
+                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
+                                </p>
+                            </div>
+
+                            <hr className="my-6 border-t border-gray-300"></hr>
+
+                            <h2 className="text-xl font-bold mt-6 mb-4">Expérience Professionelle</h2>
+                            <div className="mb-6">
+                                <div className="flex justify-between flex-wrap gap-2 w-full">
+                                    <span className="text-gray-700 font-bold">Pride Score</span>
+                                    <p>
+                                        <span className="text-gray-700 mr-2">Started</span>
+                                        <span className="text-gray-700">Oct. 2023</span>
+                                    </p>
+                                </div>
+                                <p className='italic'>NextJS - TailwindCSS</p>
+                                <p className="mt-2">
                                     Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
                                 </p>
                             </div>
@@ -132,52 +174,7 @@ const CV = () => {
 
                             <hr className="my-6 border-t border-gray-300"></hr>
 
-                            <h2 className="text-xl font-bold mt-6 mb-4">Projets Persos</h2>
-                            <div className="mb-6">
-                                <div className="flex justify-between flex-wrap gap-2 w-full">
-                                    <span className="text-gray-700 font-bold">Pride Score</span>
-                                    <p>
-                                        <span className="text-gray-700 mr-2">Started</span>
-                                        <span className="text-gray-700">Oct. 2023</span>
-                                    </p>
-                                </div>
-                                <p className='italic'>NextJS - TailwindCSS</p>
-                                <p className="mt-2">
-                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
-                                </p>
-                            </div>
-
-                            <div className="mb-6">
-                                <div className="flex justify-between flex-wrap gap-2 w-full">
-                                    <span className="text-gray-700 font-bold">Pride Score</span>
-                                    <p>
-                                        <span className="text-gray-700 mr-2">Started</span>
-                                        <span className="text-gray-700">Oct. 2023</span>
-                                    </p>
-                                </div>
-                                <p className='italic'>NextJS - TailwindCSS</p>
-                                <p className="mt-2">
-                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
-                                </p>
-                            </div>
-
-                            <div className="mb-6">
-                                <div className="flex justify-between flex-wrap gap-2 w-full">
-                                    <span className="text-gray-700 font-bold">Pride Score</span>
-                                    <p>
-                                        <span className="text-gray-700 mr-2">Started</span>
-                                        <span className="text-gray-700">Oct. 2023</span>
-                                    </p>
-                                </div>
-                                <p className='italic'>NextJS - TailwindCSS</p>
-                                <p className="mt-2">
-                                    Premiere exp boulot, eh bien vous savez, je ne crois pas u'il y ait de bonnes ou de mauvaises situations. Si vous voulez j'ai toujours eu cette appétance pour le travail, mais c'était une passion, c'est à dire profession passion.
-                                </p>
-                            </div>
-
-                            <hr className="my-6 border-t border-gray-300"></hr>
-
-                            <h2 className="text-xl font-bold mt-6 mb-4">Projets Persos</h2>
+                            <h2 className="text-xl font-bold mt-6 mb-4">Diplômes et Formations</h2>
                             <div className="mb-6">
                                 <div className="flex justify-between flex-wrap gap-2 w-full">
                                     <span className="text-gray-700 font-bold">Pride Score</span>
