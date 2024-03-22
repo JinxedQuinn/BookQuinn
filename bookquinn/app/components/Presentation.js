@@ -8,7 +8,7 @@ const Presentation = () => {
             </h1>
 
             <p className='text-center p-2 border border-indigo-800 rounded-lg shadow-lg'>
-                Junior en code, j'ai pour ambition de monter en compétences afin de développer un projet personnel que j'aimerais voir aboutir. Pour cela, j'ai décidé d'entamer une formation chez Ada Tech School pour devenir développeuse web.
+                Junior en code, J&apos;ai pour ambition de monter en compétences afin de développer un projet personnel que J&apos;aimerais voir aboutir. Pour cela, J&apos;ai décidé d&apos;entamer une formation chez Ada Tech School pour devenir développeuse web.
             </p>
 
             <div className='grid grid-cols-3'>
@@ -17,7 +17,7 @@ const Presentation = () => {
                     <div className="px-6 py-4">
                         <div className="font-bold text-xl mb-2">Ada Tech School : Casser les codes</div>
                         <p className="text-gray-700 text-base">
-                        J'ai entamé une reconversion professionnelle à Ada Tech School pour devenir développeuse web. J'ai choisi cette école pour sa pédagogie inclusive et bienveillante. C'est une formation Full Stack
+                        J&apos;ai entamé une reconversion professionnelle à Ada Tech School pour devenir développeuse web. J&apos;ai choisi cette école pour sa pédagogie inclusive et bienveillante. c&apos;est une formation Full Stack
                         </p>
                     </div>
                 </div>
@@ -25,7 +25,7 @@ const Presentation = () => {
                 <div class="max-w-sm rounded overflow-hidden shadow-lg m-3">
                     <img class="w-full" src="/AdaBegin.png" alt="Calendrier" />
                     <div class="px-6 py-4">
-                        <div class="font-bold text-xl mb-2">Début de l'aventure ?</div>
+                        <div class="font-bold text-xl mb-2">Début de l&apos;aventure ?</div>
                         <p class="text-gray-700 text-base">
                             23 Octobre 2023
                         </p>

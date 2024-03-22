@@ -9,7 +9,7 @@ const GridProject = () => {
                         <img src="/Pokeapi.png" alt="" className="w-full h-56 object-cover object-center" />
                         <div className="p-4">
                             <h1 className="text-gray-900 font-bold text-2xl">Dataviz et API</h1>
-                            <p className="mt-2 text-gray-600">Utilisation de l'API Pokémon, création d'un Pokédex, affichage des cartes Pokémon recherchées, et création d'un Quiz autour de cet univers.</p>
+                            <p className="mt-2 text-gray-600">Utilisation de l&apos;API Pokémon, création d&apos;un Pokédex, affichage des cartes Pokémon recherchées, et création d&apos;un Quiz autour de cet univers.</p>
                             <a href="https://github.com/Stoyots/pokemonFinal?tab=readme-ov-file" className="flex items-center mt-3 text-blue-500 hover:underline">
                                     Lien Pokésite
                                     <svg className="h-5 w-5 mx-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
