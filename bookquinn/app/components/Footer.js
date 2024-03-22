@@ -12,6 +12,9 @@ const Footer = () => {
             <a href='https://www.linkedin.com/in/nicolinichloe/' className="w-5">
                 <img src='/linkedin.svg' alt='LinkedIn' />
             </a>
+            <a href='https://www.codewars.com/users/JinxedQuinn' className="w-5">
+                <img src='/codewars.svg' alt='CodeWars' />
+            </a>
             <Link href='/cv' className="w-5">
                 <img src='/Cvitae.svg' alt='CV' />
             </Link>
