@@ -10,6 +10,8 @@ const Infos = () => {
                     <strong>Pride Score</strong>
                 </p>
             </div>
+
+            
         </section>
     );
 };
